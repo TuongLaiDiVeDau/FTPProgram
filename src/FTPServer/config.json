@@ -1,0 +1,12 @@
+﻿{
+  "Port": 21,
+  "ConfigAutoSave": false,
+  "AutoStartAtOpen": false,
+  "Users": [
+    {
+      "Name": "demo",
+      "Password": "demo",
+      "CurrentDirectory": "D:\\FTP Server Test\\CSharpFTPServer"
+    }
+  ]
+}
